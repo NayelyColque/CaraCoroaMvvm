@@ -1,0 +1,1 @@
+C:\Users\nayel\OneDrive\Documentos\PAM_Entrega\CoinFlipMVVM\CoinFlip\CoinFlip\CoinFlip.csproj;x64

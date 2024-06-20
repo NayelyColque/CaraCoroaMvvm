@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\viewmodels\\coinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\viewmodels\\coinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|c:\\users\\nayel\\onedrive\\documentos\\pam_entrega\\coinflipmvvm\\coinflipmvvm\\views\\coinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F247058-F344-4EA5-8057-0FE0D1F5B44D}|CoinFlipMvvm\\CoinFlipMvvm.csproj|solutionrelative:coinflipmvvm\\views\\coinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\.gitignore",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\.gitignore",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\.gitignore",
+              "RelativeToolTip": "CoinFlipMvvm\\.gitignore",
+              "ViewState": "AQIAADMCAAAAAAAAAAAAAEgCAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-20T14:13:18.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\AppShell.xaml",
+              "RelativeToolTip": "CoinFlipMvvm\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T14:00:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\App.xaml",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\App.xaml",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\App.xaml",
+              "RelativeToolTip": "CoinFlipMvvm\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T14:00:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\ViewModels\\CoinViewModel.cs",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\ViewModels\\CoinViewModel.cs",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\ViewModels\\CoinViewModel.cs",
+              "RelativeToolTip": "CoinFlipMvvm\\ViewModels\\CoinViewModel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:55:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\Models\\Coin.cs",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\Models\\Coin.cs",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\Models\\Coin.cs",
+              "RelativeToolTip": "CoinFlipMvvm\\Models\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:47:42.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoinView.xaml",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\VIews\\CoinView.xaml",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\VIews\\CoinView.xaml",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\VIews\\CoinView.xaml",
+              "RelativeToolTip": "CoinFlipMvvm\\VIews\\CoinView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T02:39:13.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\MainPage.xaml.cs",
+              "RelativeToolTip": "CoinFlipMvvm\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:35:35.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CoinFlipMvvm\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\nayel\\OneDrive\\Documentos\\PAM_Entrega\\CoinFlipMVVM\\CoinFlipMvvm\\MainPage.xaml",
+              "RelativeToolTip": "CoinFlipMvvm\\MainPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T02:35:18.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
